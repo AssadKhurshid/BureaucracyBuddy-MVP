@@ -22,6 +22,7 @@ Home + Tasks
 Editable Result + Downloads  
 ![Result](docs/images/result-editor.png)
 
+---
 
 ## ✅ Why It’s Useful
 - No login, accessible online (Streamlit/HF Spaces)  
