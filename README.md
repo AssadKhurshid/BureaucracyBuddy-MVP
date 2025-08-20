@@ -16,13 +16,15 @@ Paste text or upload a PDF → pick an AI action → edit the result → downloa
 
 ## 🖼️ Screenshots
 
-Home + Tasks  
+## Home + Tasks 
+
 ![Uploading Doc](https://github.com/AssadKhurshid/BureaucracyBuddy-MVP/blob/main/3_Uploading%20any%20doc.png)
 
 
 
-Editable Result + Downloads  
-![Result](docs/images/result-editor.png)
+## Editable Result + Downloads  
+
+![Result](https://raw.githubusercontent.com/AssadKhurshid/BureaucracyBuddy-MVP/refs/heads/main/4_Editable%20results.png)
 
 ---
 
